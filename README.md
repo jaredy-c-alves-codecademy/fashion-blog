@@ -1,1 +1,1 @@
-Project: **Fashion Blog**, step by step from Codecademy.
+Project: **Fashion Blog**, following tasks from Codecademy.
